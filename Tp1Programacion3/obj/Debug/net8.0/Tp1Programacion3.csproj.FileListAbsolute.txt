@@ -1,0 +1,11 @@
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\bin\Debug\net8.0\Tp1Programacion3.deps.json
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\bin\Debug\net8.0\Tp1Programacion3.dll
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\bin\Debug\net8.0\Tp1Programacion3.pdb
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\Tp1Programacion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\Tp1Programacion3.AssemblyInfoInputs.cache
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\Tp1Programacion3.AssemblyInfo.cs
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\Tp1Programacion3.csproj.CoreCompileInputs.cache
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\Tp1Programacion3.dll
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\refint\Tp1Programacion3.dll
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\Tp1Programacion3.pdb
+C:\Users\gomez\OneDrive\Desktop\Programcion 3\Tp1_Programacion3\Tp1Programacion3\obj\Debug\net8.0\ref\Tp1Programacion3.dll
